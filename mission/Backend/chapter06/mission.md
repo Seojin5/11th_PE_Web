@@ -163,3 +163,11 @@
     
     중복 이메일은 `MEMBER4091`, 중복 닉네임은 `MEMBER4092`, 중복 평점은 `RATING4091`로 구분했다.
     
+
+    <img width="732" height="735" alt="Image" src="https://github.com/user-attachments/assets/c5dbca33-87ca-4a2e-a7da-bac36dace86d" />
+
+    <img width="735" height="690" alt="Image" src="https://github.com/user-attachments/assets/541c1c64-aae7-4221-a998-47179d32ab9c" />
+
+    <img width="732" height="626" alt="Image" src="https://github.com/user-attachments/assets/a981b037-e77a-4d45-ae94-6b61266eb428" />
+
+    <img width="732" height="637" alt="Image" src="https://github.com/user-attachments/assets/fcbc3f24-c04e-4e24-9ad9-15a191484477" />
